@@ -5,12 +5,11 @@
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
     color: rgb(13, 19, 33);
-
 }
 /* banner styles */
 .header-section{
-    width: 1630px;
-    height: 850px;
+    width: 100%;
+    height: 652px;
     background-image:url('../assets/Hero-bg.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -29,7 +28,6 @@
 #header-image{
     width: 240.28px;
     height: 240px;
-    margin-top: 200px;
 }
 /* main heading styles */
 .heading{ 
@@ -61,8 +59,8 @@
 }
 /* web section styles */
 .web-section{
-     max-width: 1300px;
-     height: 980px;
+     width: 1140px;
+     height: 1395px;
      margin: 50px auto;
      padding: 60px 80px 60px 80px;
      background-color: rgba(13, 19, 33, 0.02);
@@ -117,8 +115,8 @@
 }
 /*------- my inspiration section styles------- */
 .my-inspiration-section{
-    width: 1300px;
-    height: 800px;
+    width: 1149px;
+    height: 777px;
     margin: 0 auto;
     padding: 60px 80px 60px 80px;
     display: flex;
@@ -146,8 +144,8 @@
 }
 /* my current target styles here */
 .my-target-section{
-    width: 1300px;
-    height: 800px;
+    width: 1140px;
+    height: 463px;
     margin: 0 auto;
     display: flex;
     gap: 40px;
