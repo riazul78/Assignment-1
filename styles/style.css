@@ -60,7 +60,7 @@
 /* web section styles */
 .web-section{
      width: 1300px;
-     height: 900px;
+     height: 980px;
      margin: 50px auto;
      padding: 60px 80px 60px 80px;
      background-color: rgba(13, 19, 33, 0.02);
@@ -110,6 +110,37 @@
 .learn-btn{
      padding: 12px 20px 12px 20px;
      border: 1px solid rgb(13, 19, 33);
+}
+/*------- my inspiration section styles------- */
+.my-inspiration-section{
+    width: 1300px;
+    height: 800px;
+    margin: 50px auto;
+    padding: 60px 80px 60px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inspiration-title{
+    color: rgb(13, 19, 33);
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+.inspiration-descript{
+    color: rgb(13, 19, 33);
+    font-size: 15px;
+    font-weight: 400px;
+    opacity: 0.7;
+    margin-top: 15px;
+    text-align: center;
+}
+#video{
+    width: 80%;
+    height: 80%;
+    margin: 20px auto;
+    border-radius: 15px;
 }
 
   
