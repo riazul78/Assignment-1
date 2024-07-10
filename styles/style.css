@@ -249,3 +249,20 @@
     font-size: 14px;
     font-weight: 800;
 }
+/* footer section styles */
+.footer{
+    margin-top: 100px;
+    background-color: rgba(13, 19, 33, 0.03);
+}
+.footer-section{
+     height: 100px;
+     width: 1440px;
+     margin: 0 auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.icons{
+     display: flex;
+     gap: 20px;
+}
