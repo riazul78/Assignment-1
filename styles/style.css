@@ -110,6 +110,10 @@
 .learn-btn{
      padding: 12px 20px 12px 20px;
      border: 1px solid rgb(13, 19, 33);
+     text-decoration: none;
+}
+.learn-btn a{
+    text-decoration: none;
 }
 /*------- my inspiration section styles------- */
 .my-inspiration-section{
